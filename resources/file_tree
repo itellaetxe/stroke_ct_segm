@@ -1,0 +1,18 @@
+stroke_ct_segm
+ ┣ images
+ ┃ ┣ fsl
+ ┃ ┃ ┗ rigid_tac_1w_Tilt_1_moved_to_day_0.nii.gz
+ ┃ ┣ skull_stripped
+ ┃ ┃ ┣ rigid_tac_1w_Tilt_1_moved_to_day_0_skst.nii.gz
+ ┃ ┃ ┣ tac_0d_Tilt_1_skullstripped.nii.gz
+ ┃ ┃ ┗ tac_1w_Tilt_1_skullstripped.nii.gz
+ ┃ ┣ DiffIm.nii.gz
+ ┃ ┣ DiffImSubstract.nii.gz
+ ┃ ┣ tac_0d_Tilt_1.nii.gz
+ ┃ ┣ tac_1w_Tilt_1.nii.gz
+ ┃ ┗ warped_tac_1w.nii.gz
+ ┣ notebooks
+ ┃ ┗ difference_region.ipynb
+ ┣ README.md
+ ┣ utils
+ ┗ ┗ synthstrip-docker
