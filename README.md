@@ -23,8 +23,19 @@ stroke_ct_segm
  ┣ notebooks
  ┃ ┗ difference_region.ipynb   (Go to the "1) FSL Registered Images" section. The previous code is just some DiPy approach test)
  ┃
- ┣ README.md
+ ┣ resources
+ ┃ ┗ <empty (yet)>
  ┃
- ┗ utils
-   ┗ synthstrip-docker (Wrapper script for skull-stripping using SynthStrip)
+ ┣ results
+ ┃ ┗ possible_ischemic_region.png
+ ┃
+ ┣ utils
+ ┃ ┗ synthstrip-docker (Wrapper script for skull-stripping using SynthStrip)
+ ┃
+ ┣ README.md
+ ┗ requirements.txt
 ```
+
+## Requirements
+Python 3.8.10
+All package requirements in `requirements.txt`.
